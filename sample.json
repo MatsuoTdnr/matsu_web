@@ -1,0 +1,694 @@
+[
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Warning",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 10,
+                "latitude": 24.1,
+                "longitude": 121.9,
+                "magnitude": 6,
+                "name": "台湾付近"
+            },
+            "maxScale": 10,
+            "time": "2024/04/03 11:14:00"
+        },
+        "id": "660cbca3d616be440743d063",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 11:19:15",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "与那国町祖納",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "与那国町久部良",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町黒島",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町波照間",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町上原小学校",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町上原青年会館",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 11:19:15.887",
+        "timestamp": {
+            "convert": "2024/04/03 11:19:15.883",
+            "register": "2024/04/03 11:19:15.887"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "None",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 10,
+                "latitude": 37.2,
+                "longitude": 136.9,
+                "magnitude": 3.4,
+                "name": "石川県能登地方"
+            },
+            "maxScale": 30,
+            "time": "2024/04/03 10:56:00"
+        },
+        "id": "660cb827d616be440743d062",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 11:00:06",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "穴水町大町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 30
+            },
+            {
+                "addr": "七尾市本府中町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "七尾市袖ヶ江町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "七尾市垣吉町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "七尾市能登島向田町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "輪島市門前町走出",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "志賀町富来領家町",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "志賀町香能",
+                "isArea": false,
+                "pref": "石川県",
+                "scale": 10
+            },
+            {
+                "addr": "富山市新桜町",
+                "isArea": false,
+                "pref": "富山県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 11:00:07.218",
+        "timestamp": {
+            "convert": "2024/04/03 11:00:07.215",
+            "register": "2024/04/03 11:00:07.218"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Checking",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": -1,
+                "latitude": -200,
+                "longitude": -200,
+                "magnitude": -1,
+                "name": ""
+            },
+            "maxScale": 30,
+            "time": "2024/04/03 10:56:00"
+        },
+        "id": "660cb7b5d616be440743d061",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 10:58:11",
+            "type": "ScalePrompt"
+        },
+        "points": [
+            {
+                "addr": "石川県能登",
+                "isArea": true,
+                "pref": "石川県",
+                "scale": 30
+            }
+        ],
+        "time": "2024/04/03 10:58:13.274",
+        "timestamp": {
+            "convert": "2024/04/03 10:58:13.27",
+            "register": "2024/04/03 10:58:13.274"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "None",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 40,
+                "latitude": 28,
+                "longitude": 129.3,
+                "magnitude": 2.7,
+                "name": "奄美大島近海"
+            },
+            "maxScale": 10,
+            "time": "2024/04/03 09:55:00"
+        },
+        "id": "660caa8ed616be440743d05f",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 10:02:05",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "瀬戸内町請島",
+                "isArea": false,
+                "pref": "鹿児島県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 10:02:06.273",
+        "timestamp": {
+            "convert": "2024/04/03 10:02:06.269",
+            "register": "2024/04/03 10:02:06.273"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "None",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 10,
+                "latitude": 36,
+                "longitude": 137.5,
+                "magnitude": 1.8,
+                "name": "岐阜県飛騨地方"
+            },
+            "maxScale": 10,
+            "time": "2024/04/03 09:56:00"
+        },
+        "id": "660ca9d6d616be440743d05e",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:59:02",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "高山市高根町",
+                "isArea": false,
+                "pref": "岐阜県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 09:59:02.876",
+        "timestamp": {
+            "convert": "2024/04/03 09:59:02.872",
+            "register": "2024/04/03 09:59:02.876"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "None",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 50,
+                "latitude": 35.3,
+                "longitude": 140.7,
+                "magnitude": 3.3,
+                "name": "千葉県東方沖"
+            },
+            "maxScale": 10,
+            "time": "2024/04/03 09:46:00"
+        },
+        "id": "660ca806d616be440743d05d",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:51:17",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "一宮町一宮",
+                "isArea": false,
+                "pref": "千葉県",
+                "scale": 10
+            },
+            {
+                "addr": "長南町総合グラウンド",
+                "isArea": false,
+                "pref": "千葉県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 09:51:18.392",
+        "timestamp": {
+            "convert": "2024/04/03 09:51:18.388",
+            "register": "2024/04/03 09:51:18.392"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Warning",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 20,
+                "latitude": 24.2,
+                "longitude": 121.7,
+                "magnitude": 6.3,
+                "name": "台湾付近"
+            },
+            "maxScale": 10,
+            "time": "2024/04/03 09:35:00"
+        },
+        "id": "660ca601d616be440743d05c",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:42:40",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "与那国町祖納",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "与那国町久部良",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町黒島",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 09:42:41.257",
+        "timestamp": {
+            "convert": "2024/04/03 09:42:41.253",
+            "register": "2024/04/03 09:42:41.257"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Warning",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 0,
+                "latitude": 24.1,
+                "longitude": 121.7,
+                "magnitude": 6.6,
+                "name": "台湾付近"
+            },
+            "maxScale": 20,
+            "time": "2024/04/03 09:11:00"
+        },
+        "id": "660c9fe4d616be440743d05b",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:16:35",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "与那国町祖納",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "与那国町久部良",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "与那国町役場",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "石垣市平久保",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "石垣市新栄町",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町大原",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町黒島",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町波照間",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "竹富町上原小学校",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            }
+        ],
+        "time": "2024/04/03 09:16:36.191",
+        "timestamp": {
+            "convert": "2024/04/03 09:16:36.184",
+            "register": "2024/04/03 09:16:36.191"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Warning",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": 0,
+                "latitude": 23.8,
+                "longitude": 121.7,
+                "magnitude": 7.5,
+                "name": "台湾付近"
+            },
+            "maxScale": 40,
+            "time": "2024/04/03 08:58:00"
+        },
+        "id": "660c9cf6d616be440743d05a",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:04:05",
+            "type": "DetailScale"
+        },
+        "points": [
+            {
+                "addr": "与那国町役場",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 40
+            },
+            {
+                "addr": "与那国町祖納",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "与那国町久部良",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "石垣市登野城",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "石垣市平久保",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "石垣市新栄町",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "石垣市真栄里",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "石垣市新川",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "石垣市伊原間",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "竹富町大原",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "竹富町黒島",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "竹富町波照間",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "竹富町上原小学校",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "竹富町上原青年会館",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "宮古島市平良下里",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市城辺福北",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市平良池間",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市上野新里",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市伊良部前里添",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市平良狩俣",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市城辺福西",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市下地",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市上野支所",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市平良西里",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "宮古島市下地島空港",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 10
+            },
+            {
+                "addr": "多良間村塩川",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            },
+            {
+                "addr": "多良間村仲筋",
+                "isArea": false,
+                "pref": "沖縄県",
+                "scale": 20
+            }
+        ],
+        "time": "2024/04/03 09:04:06.264",
+        "timestamp": {
+            "convert": "2024/04/03 09:04:06.261",
+            "register": "2024/04/03 09:04:06.264"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    },
+    {
+        "code": 551,
+        "earthquake": {
+            "domesticTsunami": "Checking",
+            "foreignTsunami": "Unknown",
+            "hypocenter": {
+                "depth": -1,
+                "latitude": -200,
+                "longitude": -200,
+                "magnitude": -1,
+                "name": ""
+            },
+            "maxScale": 40,
+            "time": "2024/04/03 08:58:00"
+        },
+        "id": "660c9c10d616be440743d058",
+        "issue": {
+            "correct": "None",
+            "source": "気象庁",
+            "time": "2024/04/03 09:00:14",
+            "type": "ScalePrompt"
+        },
+        "points": [
+            {
+                "addr": "沖縄県与那国島",
+                "isArea": true,
+                "pref": "沖縄県",
+                "scale": 40
+            },
+            {
+                "addr": "沖縄県石垣島",
+                "isArea": true,
+                "pref": "沖縄県",
+                "scale": 30
+            },
+            {
+                "addr": "沖縄県西表島",
+                "isArea": true,
+                "pref": "沖縄県",
+                "scale": 30
+            }
+        ],
+        "time": "2024/04/03 09:00:16.299",
+        "timestamp": {
+            "convert": "2024/04/03 09:00:16.298",
+            "register": "2024/04/03 09:00:16.299"
+        },
+        "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+        "ver": "20231023"
+    }
+]
