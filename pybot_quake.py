@@ -53,7 +53,7 @@ def quakeInfoData(quake_data):
             log_list_elements(low_list)
             # 入れ子になっているので取り出すとき注意
             response_list.append(low_list)
-                # 地図の作成
+            # 地図の作成
             m = folium.Map(location=[latitude, longitude], tiles='cartodbdark_matter', zoom_start=8)
             folium.Marker([latitude, longitude]).add_to(m)
             m.save(f"views/map_{i}.html")
